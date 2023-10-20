@@ -1,0 +1,12 @@
+things
+
+ssn
+ccnum
+mastercard
+
+shirt
+pants
+oak
+
+tank
+birch
